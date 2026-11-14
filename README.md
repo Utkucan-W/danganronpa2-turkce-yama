@@ -1,5 +1,7 @@
 # Danganronpa 2: Goodbye Despair – Türkçe Yama
 
+🇹🇷 Türkçe | [🇬🇧 English](README.en.md)
+
 **Danganronpa 2: Goodbye Despair** (Steam / PC) için ücretsiz, gayriresmî Türkçe yama.
 
 > ⚠️ Bu yama **ücretsizdir**. Bu yamayı herhangi bir yerde **ücretli** satın aldıysanız dolandırılmışsınız demektir. Resmî ve tek indirme adresi bu sayfadır: **https://github.com/Utkucan-W**
