@@ -16,10 +16,22 @@
 
 ## Ekran görüntüleri
 
-| | |
-|---|---|
-| ![Kural](images/kural.png) | ![Duruşma bitti](images/durusma_bitti.png) |
-| ![Ayağa kalkın](images/ayaga_kalkin.png) | ![Kır](images/kir.png) |
+Solda orijinal (İngilizce), sağda Türkçe.
+
+**Duruşma**
+
+![Kır](images/kir.png)
+![Ayağa kalkın](images/ayaga_kalkin.png)
+![Dava 1](images/dava.png)
+![Sınıf Duruşması sona erdi](images/durusma_bitti.png)
+![Duruşma sonuçları](images/durusma_sonuclari.png)
+
+**Arayüz**
+
+![Envanter dolu](images/envanter.png)
+![Eylem seç](images/eylem_sec.png)
+![Gün kaldı](images/gun_kaldi.png)
+![Kural 1](images/kural1.png)
 
 ## Kurulum
 
